@@ -1,24 +1,42 @@
-## Olá, meu nome é André Pinheiro!
+![Banner](./banner.png)
 
-Sou um jovem desenvolvedor focado em programação web, com conhecimentos básicos na área e um olhar atento para design. Também sou técnico em informática, sempre buscando aprender e melhorar minhas habilidades..
+# ╰┈➤ Andre Pinheiro  
 
-🔭 Cursando: Análise e desenvolvimento de sistemas
-
-💬 Estou aberto para conversar!
-
----
-
-## 🚀 Minhas Skills
-
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+𖤝 **Front-End Developer | UI/UX Enthusiast | Criativo Digital**  
+Transformo **ideias** em **interfaces bonitas** e **experiências funcionais**.
 
 ---
 
-## ⭐ GitHub Stats
+## ｡°˚｡ Sobre mim
+- ⌗  Estudante de **Análise e Desenvolvimento de Sistemas** no **Uniceplac**  
+- ᯓ Apaixonado por **Front-End** e **Design de Interfaces**  
+- ˎˊ˗ Experiência com **UI/UX** e criação de **identidade visual**  
+- ✴︎ Sempre explorando novas tecnologias e tendências
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drepimelo&show_icons=true)
+---
+
+## ᯓ Tecnologias & Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## ⌗ Projetos em Destaque
+- ✴︎ [**Portfólio Pessoal**](#) – Meu espaço criativo online  
+- 𖤝 [**Landing Pages Criativas**](#) – Experimentos em design e código  
+- ｡° [**Projetos em Andamento**](#) – Novas ideias saindo do forno
+
+---
+
+## ⊚⃝ Onde me encontrar
+➤ **Email:** andre.pinheiro@email.com  
+◻️ **LinkedIn:** [linkedin.com/in/andre-pinheiro](https://linkedin.com/in/andre-pinheiro)  
+⊹ **Instagram:** [@andre.pinheiro](https://instagram.com/andre.pinheiro)
+
+---
+
+✧ _“Criar é dar forma ao que ainda não existe.”_
