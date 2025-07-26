@@ -26,16 +26,14 @@ Transformo **ideias** em **interfaces bonitas** e **experiências funcionais**.
 ---
 
 ## ⌗ Projetos em Destaque
-- ✴︎ [**Portfólio Pessoal**](#) – Meu espaço criativo online  
+- ✴︎ [**Portfólio Pessoal**](https://behance.net/drepimelo) – Meu espaço criativo online  
 - 𖤝 [**Landing Pages Criativas**](#) – Experimentos em design e código  
 - ｡° [**Projetos em Andamento**](#) – Novas ideias saindo do forno
 
 ---
 
-## ⊚⃝ Onde me encontrar
-➤ **Email:** andre.pinheiro@email.com  
+## ⊚⃝ Onde me encontrar 
 ◻️ **LinkedIn:** [linkedin.com/in/andre-pinheiro](https://linkedin.com/in/andre-pinheiro)  
-⊹ **Instagram:** [@andre.pinheiro](https://instagram.com/andre.pinheiro)
 
 ---
 
