@@ -8,7 +8,7 @@ Transformo **ideias** em **interfaces bonitas** e **experiências funcionais**.
 ---
 
 ## ｡°˚｡ Sobre mim
-- ⌗  Estudante de **Análise e Desenvolvimento de Sistemas** no **Uniceplac**  
+- ⌗  Estudante de **Análise e Desenvolvimento de Sistemas**
 - ᯓ Apaixonado por **Front-End** e **Design de Interfaces**  
 - ˎˊ˗ Experiência com **UI/UX** e criação de **identidade visual**  
 - ✴︎ Sempre explorando novas tecnologias e tendências
